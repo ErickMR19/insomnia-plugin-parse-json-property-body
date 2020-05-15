@@ -1,0 +1,21 @@
+{
+  "name": "insomnia-plugin-parse-json-property-body",
+  "version": "1.0.0",
+  "main": "plugin.js",
+  "insomnia": {
+    "name": "Parse Property Values as JSON",
+    "description": "Allow specifying one or more properties in the response body to be parsed as JSON"
+  },
+  "author": {
+    "name": "Erick Madrigal Rios",
+    "email": "erickmadrigalrios@gmail.com",
+    "url": "https://erickmadrigal.me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ErickMR19/insomnia-plugin-parse-json-property-body"
+  },
+  "license": "GPL-3.0-or-later",
+  "dependencies": {},
+  "devDependencies": {}
+}
